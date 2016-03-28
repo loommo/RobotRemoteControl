@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_device_name" type="id" />
+    <item name="text_device_address" type="id" />
+    <item name="text_device_bonded" type="id" />
+    <item name="layout_device" type="id" />
+</resources>
